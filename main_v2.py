@@ -53,7 +53,7 @@ def main():
                     
                     break
                 texts = conversation.predict(input=human_message)
-                print("AI said:{}".format(text))
+                print("AI said:{}".format(texts))
                 tts.speak(texts)
 
 
