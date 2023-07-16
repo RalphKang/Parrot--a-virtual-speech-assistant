@@ -19,7 +19,7 @@ def main():
     with open(args.config) as f:
         config = json.load(f)
     key=config["key"]
-    openai.api_key = key
+    openai.api_key = key 
     agent_name_list=config["agent_name"]
     warning_list=["stop","end","quit","exit"]
     tts=TextToSpeech()
