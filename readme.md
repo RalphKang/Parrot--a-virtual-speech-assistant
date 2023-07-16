@@ -1,4 +1,4 @@
-![mockingbird](https://github.com/RalphKang/Parrot--a-virtual-speech-assistant/blob/master/utilities_readme/microphone.jpg)
+![Parrot](https://github.com/RalphKang/Parrot--a-virtual-speech-assistant/blob/master/utilities_readme/parrot_logo.jpg)
 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
@@ -13,6 +13,7 @@ It has the following features.
 🤩 **Wake it up with the name you like** You can wake your parrot with any name you given to it, for example, I named it "Ralph", then I can wake "Ralph" up with saying "Hi, Ralph". Similarly, one can name it "Judy","Fox", etc.
 
 🤩 **Stop and re-wake up** You can stop it with the word of "stop", "quit", etc. and re-wake it up with calling its name.
+#### [DEMO VIDEO](https://www.bilibili.com/video/BV12X4y1Y7er/?vd_source=3f4c6469e4fe92b452a9e0bec131d11c)
 
 ## Quick Start
 
@@ -43,8 +44,8 @@ Now you can play with it.
    `python main_v2.py`
 * Then your agent is activated, one hint is your microphone is activated:
 
-![microphone](\\utilities_readme\\microphone.jpg)
+![microphone](https://github.com/RalphKang/Parrot--a-virtual-speech-assistant/blob/master/utilities_readme/microphone.jpg)
 
 * you can activate it via saying "Hi, Ralph" (suppose Ralph is the agent name)
-* and talk to it then.
-#### [DEMO VIDEO](https://www.bilibili.com/video/BV17Q4y1B7mY/)
+* Talk to it then, enjoy
+#### [DEMO VIDEO](https://www.bilibili.com/video/BV12X4y1Y7er/?vd_source=3f4c6469e4fe92b452a9e0bec131d11c)
